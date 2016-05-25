@@ -1,4 +1,4 @@
-# How to make a JSON RESTful API with Golang
+# How to make a JSON RESTful API with Go lang
 
 ## Setup
 
