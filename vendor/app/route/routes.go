@@ -23,6 +23,12 @@ var routes = Routes{
 		controller.Index,
 	},
 	Route{
+		"User",
+		"GET",
+		"/users",
+		controller.UserIndex,
+	},
+	Route{
 		"TodoIndex",
 		"GET",
 		"/todos",

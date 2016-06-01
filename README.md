@@ -20,5 +20,7 @@ Then create a src directory in your workspace and add your project
 
     cd ~/GoWorkspace
     mkdir src
+    cd src
     git clone ... 
-    # GoRESTfulAPI
+    
+# GoRESTfulAPI
